@@ -556,7 +556,7 @@ public class Logic1
 }
 
 
-
+/*
 //result
 true
 true
@@ -619,3 +619,4 @@ FizzBuzz!
 false
 true
 true
+*/
